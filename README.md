@@ -11,7 +11,18 @@ Senior/Lead Software Engineer · [LinkedIn](https://www.linkedin.com/in/juanmarc
 
 ## Machine Learning
 
-Coursera / Stanford [Machine Learning Specialization](https://coursera.org/share/6b49f68cc5effbe5bb3e7d13ef44b524):
-- [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/48ee7076fd82e9ee42f1a4c788a44fcb)
-- [Advanced Learning Algorithms](https://coursera.org/share/a6e47389a43a12f003efebdff40f9340)
-- [Unsupervised Learning, Recommenders, Reinforcement Learning](https://coursera.org/share/a1497bcee3e8886e066ca9f1e3abe669)
+Coming from 15 years of software engineering, currently building ML depth deliberately — coursework first, then applied end-to-end projects, each one deeper than the last.
+
+**Coursework:**
+- Coursera / Stanford [Machine Learning Specialization](https://coursera.org/share/6b49f68cc5effbe5bb3e7d13ef44b524):
+  - [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/48ee7076fd82e9ee42f1a4c788a44fcb)
+  - [Advanced Learning Algorithms](https://coursera.org/share/a6e47389a43a12f003efebdff40f9340)
+  - [Unsupervised Learning, Recommenders, Reinforcement Learning](https://coursera.org/share/a1497bcee3e8886e066ca9f1e3abe669)
+- Python certifications: <!-- TODO(jmb): add name/provider/link for each cert -->
+
+**Learning path (applied projects, in order):**
+
+| Level | Project | Focus |
+|---|---|---|
+| 1.0 | [Exam Score Predictor](https://github.com/jmb-python-developer/ML-01-exam-scores-prediction) | Foundations — full pipeline end-to-end: EDA, feature engineering, model comparison, deployed app |
+| 1.2 | [Customer Churn Prediction](https://github.com/jmb-python-developer/ML-02-customer-churn-prediction) *(in progress)* | Applied EDA — univariate/bivariate analysis backed by hypothesis testing (chi-square, effect size), not just visual reads |
