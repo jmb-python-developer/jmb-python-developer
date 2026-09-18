@@ -18,7 +18,9 @@ Coming from 15 years of software engineering, currently building ML depth delibe
   - [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/48ee7076fd82e9ee42f1a4c788a44fcb)
   - [Advanced Learning Algorithms](https://coursera.org/share/a6e47389a43a12f003efebdff40f9340)
   - [Unsupervised Learning, Recommenders, Reinforcement Learning](https://coursera.org/share/a1497bcee3e8886e066ca9f1e3abe669)
-- Python certifications: <!-- TODO(jmb): add name/provider/link for each cert -->
+- IBM (Coursera) certifications:
+  - [Python for Data Science, AI & Development](https://coursera.org/verify/ZM7GAUJNFYFE) — April 2025
+  - [Exploratory Data Analysis for Machine Learning](https://coursera.org/account/accomplishments/verify/KER2N0IYGON5) — July 2025
 
 **Learning path (applied projects, in order):**
 
