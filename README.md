@@ -1,6 +1,6 @@
 # Juan Marcos Bruno
 
-Senior/Lead Software Engineer · [LinkedIn](https://www.linkedin.com/in/juanmarcosbruno/)
+Senior/Lead Software Engineer · **[Connect on LinkedIn](https://www.linkedin.com/in/juanmarcosbruno/)** · [ML Quest, my interactive ML portfolio](https://jmb-python-developer.github.io/)
 
 ## Featured Projects
 
@@ -23,6 +23,8 @@ Coming from 15 years of software engineering, currently building ML depth delibe
   - [Exploratory Data Analysis for Machine Learning](https://coursera.org/account/accomplishments/verify/KER2N0IYGON5) — July 2025
 
 ### ML Quest
+
+Each level is harder and more structured than the last, moving step by step toward production-ready machine learning: clean pipelines, tuned models, and models served as real services.
 
 <a href="https://jmb-python-developer.github.io/"><img src="assets/ml-quest-map.svg" width="100%" alt="ML Quest world map: my machine-learning projects shown as game levels. Click to open the interactive version."></a>
 
@@ -76,7 +78,7 @@ Coming from 15 years of software engineering, currently building ML depth delibe
 
 **Skills:** `Hyperparameter tuning` · `Random forest` · `XGBoost` · `Class imbalance` · `Threshold tuning`
 
-[Open the project ↗](https://github.com/jmb-python-developer/ML-03-credit-risk-scoring)
+🔒 *Repository private until this level is cleared.*
 
 </details>
 <details>
